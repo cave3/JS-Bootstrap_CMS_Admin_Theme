@@ -112,6 +112,10 @@ body {
   background: #ffffff;
 }
 
+#login {
+  margin-top: 30px;
+}
+
 /* Footer */
 #footer {
   position: fixed;
